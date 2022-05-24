@@ -1,4 +1,4 @@
-# Marleylilly Email
+# Marleylilly Promotional Email
 
 This HTML Transactional Email / Template is written from scratch and is fully customizable.
 I utilized JSON in order to quickly and easily change image files and descriptions. This dynamic HTML Transactional Email / Template can now be manipulated in an HTML Email marketing campaign to increase efficiency with A/B Testing.
