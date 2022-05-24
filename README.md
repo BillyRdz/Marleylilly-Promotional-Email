@@ -3,7 +3,7 @@
 This HTML Transactional Email / Template is written from scratch and is fully customizable.
 I utilized JSON in order to quickly and easily change image files and descriptions. This dynamic HTML Transactional Email / Template can now be manipulated in an HTML Email marketing campaign to increase efficiency with A/B Testing.
 
-**Link to project:** https://marleylilly-promotional-email.netlify.app/
+**Link to project:** https://marleylilly-promotional-email.netlify.app
 
 ![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/marlilley-promotional-email.gif)
 
@@ -38,7 +38,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Mortgify:** https://github.com/BillyRdz/Mortgify
 
-**HEB Transactional Email:** https://github.com/BillyRdz/heb-transactional-email
+**AngelList Newsletter Email:** https://github.com/BillyRdz/angellist-newsletter
 
 # Foundation for Emails Template
 
